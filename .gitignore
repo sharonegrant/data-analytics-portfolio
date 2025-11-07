@@ -1,10 +1,12 @@
-# Ignore data files and outputs
-/data/
-/outputs/
+# Ignore data & outputs, but keep the placeholder .gitkeep files
+data/*
+!data/.gitkeep
+outputs/*
+!outputs/.gitkeep
 
-# Jupyter notebook checkpoints
+# Jupyter checkpoints
 **/.ipynb_checkpoints/
 
-# Python cache files
+# Python caches
 __pycache__/
 *.py[cod]
