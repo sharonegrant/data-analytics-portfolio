@@ -1,8 +1,0 @@
-# Add Python dependencies for your projects here
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
-statsmodels
-jupyter
