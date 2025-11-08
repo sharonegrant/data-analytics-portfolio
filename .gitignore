@@ -16,3 +16,7 @@ local.txt
 tree.txt
 /outputs/**
 projects/cleaning_ga/data_in/**
+/outputs/*
+!outputs/.gitkeep
+projects/cleaning_ga/data_in/*
+!projects/cleaning_ga/data_in/.gitkeep
