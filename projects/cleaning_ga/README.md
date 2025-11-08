@@ -84,5 +84,9 @@ python projects/cleaning\_ga/src/cleaning.py
 
 \- Type fixes: `\[list of columns]` cast to `date/float/int`
 
+## Live artifacts
+- Notebook: `projects/cleaning_ga/notebooks/01_cleaning.ipynb`
+- Cleaned CSV (local run output): `outputs/data/cleaning_ga/cleaned.csv`
+- Profiling report (GitHub Pages): https://<sharonegrant>.github.io/<data-analytics-portfolio>/cleaning_ga_report.html
 
 
