@@ -14,3 +14,5 @@ __pycache__/
 # Local helper files
 local.txt
 tree.txt
+/outputs/**
+projects/cleaning_ga/data_in/**
