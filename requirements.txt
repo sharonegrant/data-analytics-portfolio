@@ -2,3 +2,5 @@ pandas
 ydata-profiling
 jupyterlab
 pytest
+
+plotly>=5
