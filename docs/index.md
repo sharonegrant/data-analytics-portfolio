@@ -28,6 +28,17 @@ title: Portfolio
        href="https://github.com/sharonegrant/data-analytics-portfolio/blob/main/projects/eda_ga/notebooks/01_eda.ipynb">Notebook</a>
   </div>
 
+<!-- Dashboard GA card -->
+<div class="card">
+  <h3>Dashboard GA</h3>
+  <p>Interactive Plotly demo published as a self-contained HTML page.</p>
+  <a class="btn" href="./dash_ga/">Open dashboard</a>
+  <a class="btn secondary" style="margin-left:.5rem"
+     href="https://github.com/sharonegrant/data-analytics-portfolio/tree/main/projects/dashboard_demo">
+    Source
+  </a>
+</div>
+
   <!-- Placeholder for your next item -->
   <div class="card">
     <h3>Dashboards (Coming Soon)</h3>
