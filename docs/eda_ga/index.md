@@ -1,13 +1,15 @@
-<link rel="stylesheet" href="../assets/portfolio.css">
 ---
 title: EDA GA — Quick look
 ---
 
-- **Back to portfolio home:** [/data-analytics-portfolio/](/data-analytics-portfolio/)
-- **Cleaning GA — Profile:** [/data-analytics-portfolio/cleaning_ga/](/data-analytics-portfolio/cleaning_ga/)
+# EDA GA — Quick look
 
-### Age distribution
-![Age distribution](/data-analytics-portfolio/eda_ga/age_hist.png)
+*Notebook:* [https://github.com/sharonegrant/data-analytics-portfolio/blob/main/projects/eda_ga/notebooks/01_eda.ipynb](https://github.com/sharonegrant/data-analytics-portfolio/blob/main/projects/eda_ga/notebooks/01_eda.ipynb)
 
-### Name counts
-![Name counts](/data-analytics-portfolio/eda_ga/name_counts.png)
+## Age distribution
+![Age distribution](age_hist.png)
+
+## Name counts
+![Name counts](name_counts.png)
+
+[⬅ Back to portfolio home](../)
