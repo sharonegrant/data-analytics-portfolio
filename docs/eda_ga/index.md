@@ -1,6 +1,12 @@
-# EDA GA — Quick Look
+---
+title: EDA GA — Quick look
+---
 
-**What this shows:** tiny demo dataset, quick visuals.
+- **Back to portfolio home:** [/data-analytics-portfolio/](/data-analytics-portfolio/)
+- **Cleaning GA — Profile:** [/data-analytics-portfolio/cleaning_ga/](/data-analytics-portfolio/cleaning_ga/)
 
+### Age distribution
+![Age distribution](/data-analytics-portfolio/eda_ga/age_hist.png)
 
-[⬅ Back to portfolio](/data-analytics-portfolio/)
+### Name counts
+![Name counts](/data-analytics-portfolio/eda_ga/name_counts.png)
