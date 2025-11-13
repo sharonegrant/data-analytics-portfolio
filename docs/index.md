@@ -20,3 +20,5 @@ Welcome! This is a living gallery of quick, focused analytics projects.
 ---
 
 _Last updated: {{ site.time | date: "%Y-%m-%d" }}_
+
+- **EDA GA — Quick looks** 👉 ./eda_ga/
