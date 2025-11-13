@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="assets/portfolio.css">
 ---
 layout: default
 title: Home

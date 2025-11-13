@@ -1,0 +1,7 @@
+/* Portfolio overrides */
+:root { --accent: #7c3aed; }
+h1, h2, h3 { letter-spacing:.3px }
+a { text-decoration:none }
+a:hover { text-decoration:underline }
+hr { border:0; height:1px; background:#eee }
+.tag { display:inline-block; padding:.15rem .45rem; background:#f6f5ff; border:1px solid #ecebff; border-radius:12px; font-size:.85rem }

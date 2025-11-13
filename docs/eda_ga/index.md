@@ -1,3 +1,4 @@
+<link rel="stylesheet" href="../assets/portfolio.css">
 ---
 title: EDA GA — Quick look
 ---
