@@ -1,7 +1,21 @@
-/* Portfolio overrides */
-:root { --accent: #7c3aed; }
-h1, h2, h3 { letter-spacing:.3px }
-a { text-decoration:none }
-a:hover { text-decoration:underline }
-hr { border:0; height:1px; background:#eee }
-.tag { display:inline-block; padding:.15rem .45rem; background:#f6f5ff; border:1px solid #ecebff; border-radius:12px; font-size:.85rem }
+:root { --accent:#7c3aed; --ink:#111; --muted:#666; --bg:#fff; }
+main { max-width:1000px; margin:0 auto; padding:1.25rem; }
+.hero { text-align:center; padding:1.5rem 0 1rem; }
+.hero h1 { margin:.25rem 0 .5rem; }
+.hero p { color:var(--muted); margin:0 }
+.cards {
+  display:grid; grid-template-columns:repeat(auto-fit,minmax(260px,1fr));
+  gap:16px; margin-top:1rem;
+}
+.card {
+  background:var(--bg); border:1px solid #e9e9ee; border-radius:14px; padding:16px;
+  box-shadow:0 2px 8px rgba(0,0,0,.04);
+}
+.card h3 { margin:.25rem 0 .25rem; }
+.card p { color:var(--muted); margin:.25rem 0 .75rem; font-size:.95rem; min-height:2.5em; }
+.btn {
+  display:inline-block; padding:.45rem .75rem; border-radius:10px;
+  background:var(--accent); color:#fff; text-decoration:none;
+}
+.btn.secondary { background:#eef; color:#334; }
+.small { font-size:.9rem; color:var(--muted); }
