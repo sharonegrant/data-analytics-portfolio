@@ -37,12 +37,20 @@ title: Portfolio
        href="https://github.com/sharonegrant/data-analytics-portfolio/tree/main/projects/dashboard_demo">Source</a>
   </div>
 
-  <!-- Placeholder for future items -->
-  <div class="card">
-    <h3>Experimentation demo (A/B test)</h3>
-    <p>Simulated A/B test with lift estimates and business decision guidance.</p>
-    <a class="btn" href="#">Coming soon</a>
+<div class="card">
+  <h3>A/B Test Demo</h3>
+  <p>Simulated landing-page experiment with clear, decision-ready recommendations for marketing and product stakeholders.</p>
+  <div class="button-row">
+    <a class="btn" href="./ab_test/">View summary</a>
+    <a class="btn secondary" style="margin-left:.5rem"
+       href="https://github.com/sharonegrant/data-analytics-portfolio/tree/main/projects/ab_test">
+      Source
+    </a>
   </div>
+</div>
+
+
+  <!-- Placeholder for future items -->
 
   <div class="card">
     <h3>Forecasting demo</h3>
